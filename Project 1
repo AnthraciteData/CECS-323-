@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-15T04:34:03.710Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="bPIvnQq7m7FAC6TSjmCc" version="16.5.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-02-15T04:46:10.913Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="gOUjAmVcJaFRyExoXu94" version="16.5.6" type="github" pages="3">
   <diagram id="6GR8Ov5-OGqoMBwQqEq_" name="Page-1">
-    <mxGraphModel dx="2742" dy="1292" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1901" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,16 +20,13 @@
           <mxGeometry y="104" width="160" height="44" as="geometry" />
         </mxCell>
         <mxCell id="PAxq2e3P1FwLSAP02v0C-27" value="Purchase Order" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="80" y="360" width="160" height="104" as="geometry" />
+          <mxGeometry x="80" y="360" width="160" height="78" as="geometry" />
         </mxCell>
         <mxCell id="PAxq2e3P1FwLSAP02v0C-28" value="+ timeStamp: date" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="PAxq2e3P1FwLSAP02v0C-27" vertex="1">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="PAxq2e3P1FwLSAP02v0C-29" value="+ amountOrder: string" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="PAxq2e3P1FwLSAP02v0C-27" vertex="1">
+        <mxCell id="PAxq2e3P1FwLSAP02v0C-29" value="+ stickerPrice: string" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="PAxq2e3P1FwLSAP02v0C-27" vertex="1">
           <mxGeometry y="52" width="160" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="PAxq2e3P1FwLSAP02v0C-35" value="+ stickerCost: double" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="PAxq2e3P1FwLSAP02v0C-27" vertex="1">
-          <mxGeometry y="78" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="PAxq2e3P1FwLSAP02v0C-36" value="Automobile " style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
           <mxGeometry x="480" y="360" width="160" height="130" as="geometry" />
@@ -149,7 +146,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="BoIp430dodhDg_gcDwYA" name="Page-3">
-    <mxGraphModel dx="1710" dy="1687" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2952" dy="2536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="KGgbT5_K25gZQEBp5rmg-0" />
         <mxCell id="KGgbT5_K25gZQEBp5rmg-1" parent="KGgbT5_K25gZQEBp5rmg-0" />
