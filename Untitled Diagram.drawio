@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-19T08:08:29.476Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="8a59tow0udVxy1kZSsOy" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-19T08:11:30.871Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="zmKUWlSEF1po6unrN2J3" version="16.6.1" type="github">
   <diagram id="BoIp430dodhDg_gcDwYA" name="Page-3">
-    <mxGraphModel dx="2908" dy="1847" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2275" dy="1617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="KGgbT5_K25gZQEBp5rmg-0" />
         <mxCell id="KGgbT5_K25gZQEBp5rmg-1" parent="KGgbT5_K25gZQEBp5rmg-0" />
@@ -56,7 +56,7 @@
             <mxRectangle width="97" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1KFLzZcMGdWPTmCdkxGo-3" value="price" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontSize=13;" parent="OXqMkUGr_GrGIpzj0Fx3-0" vertex="1">
+        <mxCell id="1KFLzZcMGdWPTmCdkxGo-3" value="sticker_price" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontSize=13;" parent="OXqMkUGr_GrGIpzj0Fx3-0" vertex="1">
           <mxGeometry x="293" width="97" height="40" as="geometry">
             <mxRectangle width="97" height="40" as="alternateBounds" />
           </mxGeometry>
