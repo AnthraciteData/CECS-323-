@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-23T23:30:29.207Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="6oIiqi3vAmcCTQRO96sI" version="17.1.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-03-23T23:48:21.962Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="pDZ6iAYil0hslugoMdIF" version="17.1.5" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="UML">
     <mxGraphModel dx="1026" dy="463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -427,6 +427,30 @@
         </mxCell>
         <mxCell id="HUQyo91nwI6KtNJE5Rdd-22" value="1..1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="iczGk36Ovgoqb-Fh8N0Z-1" vertex="1">
           <mxGeometry x="480" y="530" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZujWJEv4xok4K0TFu9YQ-0" value="Do make an association table for each package ID&lt;br&gt;so for each package&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="iczGk36Ovgoqb-Fh8N0Z-1">
+          <mxGeometry x="610" y="375" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZujWJEv4xok4K0TFu9YQ-1" value="Features" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="iczGk36Ovgoqb-Fh8N0Z-1">
+          <mxGeometry x="715" y="670" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZujWJEv4xok4K0TFu9YQ-2" value="FK" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="iczGk36Ovgoqb-Fh8N0Z-1">
+          <mxGeometry x="790" y="640" width="65" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZujWJEv4xok4K0TFu9YQ-3" value="package_id" style="whiteSpace=wrap;html=1;" vertex="1" parent="iczGk36Ovgoqb-Fh8N0Z-1">
+          <mxGeometry x="790" y="660" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZujWJEv4xok4K0TFu9YQ-5" value="features" style="whiteSpace=wrap;html=1;" vertex="1" parent="iczGk36Ovgoqb-Fh8N0Z-1">
+          <mxGeometry x="860" y="660" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZujWJEv4xok4K0TFu9YQ-6" value="PK" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="iczGk36Ovgoqb-Fh8N0Z-1">
+          <mxGeometry x="790" y="680" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZujWJEv4xok4K0TFu9YQ-10" value="1..*" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="iczGk36Ovgoqb-Fh8N0Z-1">
+          <mxGeometry x="830" y="620" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZujWJEv4xok4K0TFu9YQ-13" value="1 1 1 seats&lt;br&gt;2 1 1 seats" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="iczGk36Ovgoqb-Fh8N0Z-1">
+          <mxGeometry x="1025" y="615" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
