@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-25T01:44:52.414Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="V9NbUTlIC8nqpJ06b-a2" version="17.1.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-03-25T01:56:16.556Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="5eD-y0uPAh8lANjrmmMr" version="17.1.5" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="UML">
     <mxGraphModel dx="786" dy="463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -430,7 +430,7 @@
         <mxCell id="ZujWJEv4xok4K0TFu9YQ-3" value="packageID" style="whiteSpace=wrap;html=1;" parent="iczGk36Ovgoqb-Fh8N0Z-1" vertex="1">
           <mxGeometry x="790" y="660" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ZujWJEv4xok4K0TFu9YQ-5" value="featureID" style="whiteSpace=wrap;html=1;" parent="iczGk36Ovgoqb-Fh8N0Z-1" vertex="1">
+        <mxCell id="ZujWJEv4xok4K0TFu9YQ-5" value="packageFeatureID" style="whiteSpace=wrap;html=1;" parent="iczGk36Ovgoqb-Fh8N0Z-1" vertex="1">
           <mxGeometry x="860" y="660" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZujWJEv4xok4K0TFu9YQ-6" value="PK" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="iczGk36Ovgoqb-Fh8N0Z-1" vertex="1">
@@ -445,7 +445,7 @@
         <mxCell id="lL7mLhba4SzhNa93PelF-4" value="PK" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="iczGk36Ovgoqb-Fh8N0Z-1">
           <mxGeometry x="795" y="220" width="175" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="lL7mLhba4SzhNa93PelF-5" value="featureID" style="whiteSpace=wrap;html=1;" vertex="1" parent="iczGk36Ovgoqb-Fh8N0Z-1">
+        <mxCell id="lL7mLhba4SzhNa93PelF-5" value="modelFeatureID" style="whiteSpace=wrap;html=1;" vertex="1" parent="iczGk36Ovgoqb-Fh8N0Z-1">
           <mxGeometry x="870" y="200" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9PLQaMzXwEtx9iaHG4z_-2" value="ModelFeatures" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="iczGk36Ovgoqb-Fh8N0Z-1">
@@ -460,7 +460,7 @@
         <mxCell id="9PLQaMzXwEtx9iaHG4z_-5" value="PK" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="iczGk36Ovgoqb-Fh8N0Z-1">
           <mxGeometry x="800" y="410" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="9PLQaMzXwEtx9iaHG4z_-6" value="featureID" style="whiteSpace=wrap;html=1;" vertex="1" parent="iczGk36Ovgoqb-Fh8N0Z-1">
+        <mxCell id="9PLQaMzXwEtx9iaHG4z_-6" value="trimFeatureID" style="whiteSpace=wrap;html=1;" vertex="1" parent="iczGk36Ovgoqb-Fh8N0Z-1">
           <mxGeometry x="870" y="390" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9PLQaMzXwEtx9iaHG4z_-7" value="TrimFeatures" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="iczGk36Ovgoqb-Fh8N0Z-1">
