@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-09T00:33:15.023Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="ofQrMyPKnlX4tVSD6Fr2" version="17.4.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-09T00:35:54.627Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="0GijrLBXqSMvRAsCaYLV" version="17.4.1" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="UML">
     <mxGraphModel dx="1426" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -114,19 +114,19 @@
         <mxCell id="-DOf1A34W1WNaZHsbsLS-0" value="ModelFeature" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="880" y="322" width="140" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="-DOf1A34W1WNaZHsbsLS-1" value="+ feature : string" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="-DOf1A34W1WNaZHsbsLS-0" vertex="1">
+        <mxCell id="-DOf1A34W1WNaZHsbsLS-1" value="+ valid: boolean" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="-DOf1A34W1WNaZHsbsLS-0" vertex="1">
           <mxGeometry y="26" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="-DOf1A34W1WNaZHsbsLS-6" value="PackageFeature" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="883.5" y="624" width="140" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="-DOf1A34W1WNaZHsbsLS-7" value="+ feature : string" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="-DOf1A34W1WNaZHsbsLS-6" vertex="1">
+        <mxCell id="-DOf1A34W1WNaZHsbsLS-7" value="+ valid: boolean" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="-DOf1A34W1WNaZHsbsLS-6" vertex="1">
           <mxGeometry y="26" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="-DOf1A34W1WNaZHsbsLS-10" value="TrimFeature" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="880" y="420" width="140" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="-DOf1A34W1WNaZHsbsLS-11" value="+ feature : string" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="-DOf1A34W1WNaZHsbsLS-10" vertex="1">
+        <mxCell id="-DOf1A34W1WNaZHsbsLS-11" value="+ valid: boolean" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="-DOf1A34W1WNaZHsbsLS-10" vertex="1">
           <mxGeometry y="26" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="-DOf1A34W1WNaZHsbsLS-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-DOf1A34W1WNaZHsbsLS-1" target="8DEb6k_h8O8LY1NTbbbO-6" edge="1">
